@@ -1,0 +1,7 @@
+C:\Users\bmg\source\repos\RustAutoStarter\bin\Debug\RustAutoStarter.exe.config
+C:\Users\bmg\source\repos\RustAutoStarter\bin\Debug\RustAutoStarter.exe
+C:\Users\bmg\source\repos\RustAutoStarter\bin\Debug\RustAutoStarter.pdb
+C:\Users\bmg\source\repos\RustAutoStarter\obj\Debug\RustAutoStarter.csprojAssemblyReference.cache
+C:\Users\bmg\source\repos\RustAutoStarter\obj\Debug\RustAutoStarter.csproj.CoreCompileInputs.cache
+C:\Users\bmg\source\repos\RustAutoStarter\obj\Debug\RustAutoStarter.exe
+C:\Users\bmg\source\repos\RustAutoStarter\obj\Debug\RustAutoStarter.pdb

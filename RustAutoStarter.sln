@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustAutoStarter", "RustAutoStarter.csproj", "{A20B43E8-7D2A-4E65-B355-A1B09212C366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20B43E8-7D2A-4E65-B355-A1B09212C366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20B43E8-7D2A-4E65-B355-A1B09212C366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20B43E8-7D2A-4E65-B355-A1B09212C366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20B43E8-7D2A-4E65-B355-A1B09212C366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {235B3BBB-9E49-430D-8251-55ED835DAF8A}
+	EndGlobalSection
+EndGlobal
